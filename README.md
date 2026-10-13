@@ -1,5 +1,6 @@
 <h1> Introdução à acessibilidade digital </h1>
 <p> Com a criação da <b> LBI (Legislação Brasileira de Inclusão) </b> em 2015 e a publicação da norma <b> ABNT NBR 17225 </b> em 2025, que se propôs a apresentar os detalhes técnicos necessários para a manutenção da internet acessível para todos se baseando na <b> WCAG (Diretrizes de Acessibilidade para Conteúdo Web) </b> e cujos <b> 96 itens de 146 apresentados se fazem obrigatórios </b>, segundo a publicação “ABNT NBR 17225/2025 – Acessibilidade em conteúdo e aplicações web – Requisitos” feita pelo CTA (Centro Tecnológico de Acessibilidade) em 5 de setembro de 2025, se fez necessário uma produção de um <b> minicurso sobre o desenvolvimento de websites e aplicações que atendam a esses requisitos </b>. Apresentando aos desenvolvedores menos integrados ao assunto um leque de ferramentas já disponíveis para a integração com suas produções autorais.</p> 
+<p> <b> <i> Saiba mais em 'development/docs/justificativa.pdf'... </i></b></p>
 <h2> Objetivos </h2>
 <p> (+) Construir e manter um âmbito digital mais inclusivo e acessível. </p>
 <h3> Objetivo específico </h3>
