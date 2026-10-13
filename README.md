@@ -32,5 +32,5 @@
 </ul>
   
 <hr>
-<small> <i> Este repositório é referente ao projeto principal da disciplina de Iniciação à Prática de Extensão ministrada pelo professor Fabrício Herpich do curso de Ciência da Computação na Universidade Federal da Fronteira Sul. </i> </small>
+<small> <i> Este repositório é referente ao projeto principal, desenvolvido pelas alunas Analih Brum Ineu, Fernanda Santos Barreta e Paola Weber, da disciplina de Iniciação à Prática de Extensão ministrada pelo professor Fabrício Herpich do curso de Ciência da Computação na Universidade Federal da Fronteira Sul. </i> </small>
 
